@@ -22,3 +22,5 @@ C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manag
 C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.g.resources
 C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW_Task_Manager.Properties.Resources.resources
 C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\AD-Task-Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.exe
+C:\Users\Andrew\Documents\GitHub\AD-Task-Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.pdb
