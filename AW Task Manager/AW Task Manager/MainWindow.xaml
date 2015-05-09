@@ -1,0 +1,26 @@
+﻿<Window x:Class="AW_Task_Manager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AW Task Manager" Height="350" Width="542" DataContext="{Binding RelativeSource={RelativeSource Self}}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <ListView x:Name="ProcessesListView" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="350" ItemsSource="{Binding _Processes}" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Process ID" Width="100" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn x:Name="ProcessNameColumn" Header="Process Name" Width="250" DisplayMemberBinding="{Binding MainWindowTitle}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <RadioButton x:Name="UnRespondingProcessesRadioBttn" Content="Unresponding Processes" HorizontalAlignment="Left" Margin="369,34,0,0" VerticalAlignment="Top" Click="UnRespondingProcessesRadioBttn_Click"/>
+        <RadioButton x:Name="RefreshProcessListRadioBttn" Content="All Processes" HorizontalAlignment="Left" Margin="369,14,0,0" VerticalAlignment="Top" Click="RefreshProcessListRadioBttn_Click"/>
+        <GroupBox HorizontalAlignment="Left" Height="86" Margin="370,81,0,0" VerticalAlignment="Top" Width="156">
+            <Grid HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="144">
+                <Label x:Name="FindProcessLB" Content="Find Process" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Margin="33,8,0,0"/>
+                <TextBox x:Name="FindProcessTxt" HorizontalAlignment="Left" Height="23" Margin="14,46,0,0" TextWrapping="Wrap" Text="Name of Process" VerticalAlignment="Top" Width="120" TextAlignment="Center" GotFocus="FindProcessTxt_GotFocus" LostFocus="FindProcessTxt_LostFocus" TextChanged="FindProcessTxt_TextChanged"/>
+            </Grid>
+        </GroupBox>
+        <CheckBox x:Name="ProgramOpenCheckBox" Content="Just Applications" HorizontalAlignment="Left" Margin="370,54,0,0" VerticalAlignment="Top" Click="ProgramOpenCheckBox_Click"/>
+        <Button x:Name="KillProcessBttn" Content="Kill Process" HorizontalAlignment="Left" Margin="407,179,0,0" VerticalAlignment="Top" Width="75" Click="KillProcessBttn_Click"/>
+
+    </Grid>
+</Window>

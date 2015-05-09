@@ -1,0 +1,24 @@
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\bin\Debug\AW Task Manager.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\bin\Debug\AW Task Manager.pdb
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW Task Manager.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\MainWindow.baml
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\App.g.cs
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW Task Manager_MarkupCompile.cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW Task Manager.g.resources
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW_Task_Manager.Properties.Resources.resources
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW Task Manager.csproj.GenerateResource.Cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW Task Manager.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\AW Task Manager\obj\Debug\AW Task Manager.pdb
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.exe
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.pdb
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\bin\Debug\AW Task Manager.exe
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\bin\Debug\AW Task Manager.pdb
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\MainWindow.baml
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager_MarkupCompile.cache
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.g.resources
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW_Task_Manager.Properties.Resources.resources
+C:\Users\Andrew\Documents\Programming\Task Manager\AW Task Manager\AW Task Manager\obj\Debug\AW Task Manager.csproj.GenerateResource.Cache
